@@ -1,0 +1,52 @@
+E:\courses\Lynda Java Essential Tranning\My Web\Compression\Compression\bin\Debug\Compression.exe.config
+E:\courses\Lynda Java Essential Tranning\My Web\Compression\Compression\bin\Debug\Compression.exe
+E:\courses\Lynda Java Essential Tranning\My Web\Compression\Compression\bin\Debug\Compression.pdb
+E:\courses\Lynda Java Essential Tranning\My Web\Compression\Compression\obj\Debug\Compression.csprojResolveAssemblyReference.cache
+E:\courses\Lynda Java Essential Tranning\My Web\Compression\Compression\obj\Debug\MainWindow.baml
+E:\courses\Lynda Java Essential Tranning\My Web\Compression\Compression\obj\Debug\MainWindow.g.cs
+E:\courses\Lynda Java Essential Tranning\My Web\Compression\Compression\obj\Debug\App.g.cs
+E:\courses\Lynda Java Essential Tranning\My Web\Compression\Compression\obj\Debug\Compression_MarkupCompile.cache
+E:\courses\Lynda Java Essential Tranning\My Web\Compression\Compression\obj\Debug\Compression.g.resources
+E:\courses\Lynda Java Essential Tranning\My Web\Compression\Compression\obj\Debug\Compression.Properties.Resources.resources
+E:\courses\Lynda Java Essential Tranning\My Web\Compression\Compression\obj\Debug\Compression.csproj.GenerateResource.Cache
+E:\courses\Lynda Java Essential Tranning\My Web\Compression\Compression\obj\Debug\Compression.exe
+E:\courses\Lynda Java Essential Tranning\My Web\Compression\Compression\obj\Debug\Compression.pdb
+E:\GethUb\LZ77\Compression\bin\Debug\Compression.exe.config
+E:\GethUb\LZ77\Compression\obj\Debug\Compression.exe
+E:\GethUb\LZ77\Compression\obj\Debug\Compression.pdb
+E:\GethUb\LZ77\Compression\bin\Debug\Compression.exe
+E:\GethUb\LZ77\Compression\bin\Debug\Compression.pdb
+E:\GethUb\LZ77\Compression\obj\Debug\Compression.csprojResolveAssemblyReference.cache
+E:\GethUb\LZ77\Compression\obj\Debug\MainWindow.baml
+E:\GethUb\LZ77\Compression\obj\Debug\MainWindow.g.cs
+E:\GethUb\LZ77\Compression\obj\Debug\App.g.cs
+E:\GethUb\LZ77\Compression\obj\Debug\Compression_MarkupCompile.cache
+E:\GethUb\LZ77\Compression\obj\Debug\Compression.g.resources
+E:\GethUb\LZ77\Compression\obj\Debug\Compression.Properties.Resources.resources
+E:\GethUb\LZ77\Compression\obj\Debug\Compression.csproj.GenerateResource.Cache
+E:\GethUb\LZ77 - Copy\Compression\bin\Debug\Compression.exe.config
+E:\GethUb\LZ77 - Copy\Compression\obj\Debug\Compression.exe
+E:\GethUb\LZ77 - Copy\Compression\obj\Debug\Compression.pdb
+E:\GethUb\LZ77 - Copy\Compression\bin\Debug\Compression.exe
+E:\GethUb\LZ77 - Copy\Compression\bin\Debug\Compression.pdb
+E:\GethUb\LZ77 - Copy\Compression\obj\Debug\Compression.csprojResolveAssemblyReference.cache
+E:\GethUb\LZ77 - Copy\Compression\obj\Debug\MainWindow.baml
+E:\GethUb\LZ77 - Copy\Compression\obj\Debug\MainWindow.g.cs
+E:\GethUb\LZ77 - Copy\Compression\obj\Debug\App.g.cs
+E:\GethUb\LZ77 - Copy\Compression\obj\Debug\Compression_MarkupCompile.cache
+E:\GethUb\LZ77 - Copy\Compression\obj\Debug\Compression.g.resources
+E:\GethUb\LZ77 - Copy\Compression\obj\Debug\Compression.Properties.Resources.resources
+E:\GethUb\LZ77 - Copy\Compression\obj\Debug\Compression.csproj.GenerateResource.Cache
+E:\GethUb\LZ78 C#\Compression\bin\Debug\Compression.exe.config
+E:\GethUb\LZ78 C#\Compression\obj\Debug\Compression.exe
+E:\GethUb\LZ78 C#\Compression\obj\Debug\Compression.pdb
+E:\GethUb\LZ78 C#\Compression\bin\Debug\Compression.exe
+E:\GethUb\LZ78 C#\Compression\bin\Debug\Compression.pdb
+E:\GethUb\LZ78 C#\Compression\obj\Debug\Compression.csprojResolveAssemblyReference.cache
+E:\GethUb\LZ78 C#\Compression\obj\Debug\MainWindow.baml
+E:\GethUb\LZ78 C#\Compression\obj\Debug\MainWindow.g.cs
+E:\GethUb\LZ78 C#\Compression\obj\Debug\App.g.cs
+E:\GethUb\LZ78 C#\Compression\obj\Debug\Compression_MarkupCompile.cache
+E:\GethUb\LZ78 C#\Compression\obj\Debug\Compression.g.resources
+E:\GethUb\LZ78 C#\Compression\obj\Debug\Compression.Properties.Resources.resources
+E:\GethUb\LZ78 C#\Compression\obj\Debug\Compression.csproj.GenerateResource.Cache
